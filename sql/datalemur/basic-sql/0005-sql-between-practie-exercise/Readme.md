@@ -18,4 +18,5 @@ status: "Completed"
 
 ## Notes & Thoughts
 This was a lesson about BETWEEN, and how it can be paired with other operators.
+
 I believe there must be a better way of handling multiple OR conditions, since my solution seems very unnintuitive.

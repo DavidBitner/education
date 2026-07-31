@@ -19,5 +19,7 @@ status: "Completed"
 
 ## Notes & Thoughts
 This is a lesson that tried to reinforce WHERE while also introducing AND.
+
 I had a little trouble because the correct answer was to have no output, so I had to mess around a little with the conditions to make sure I understood how they worked.
+
 I searched for the proper guidelines for indentation and breaking rows online because the solution had four different conditions to be met, so it got a little too long.

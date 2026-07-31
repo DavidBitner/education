@@ -15,4 +15,5 @@ status: "Completed"
 
 ## Notes & Thoughts
 This is the first intermediate lesson, it teaches aggregate functions like SUM, MIN, MAX, AVG and COUNT.
+
 In this particular exercise, it requires you to use COUNT.

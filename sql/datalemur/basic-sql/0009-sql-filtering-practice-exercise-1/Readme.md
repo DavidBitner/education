@@ -19,5 +19,7 @@ status: "Completed"
 
 ## Notes & Thoughts
 This lesson was just an amalgamation of the course's teachings so far, so the only "new" thing was the proper use of "()" in different places.
+
 It was quite challenging without using references from past lessons.
+
 I still am insecure about the indentation; I feel like SQL might have some conventions that I'm not aware of yet. I'm going with what I already know from coding, but I might have to adjust that soon.

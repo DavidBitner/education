@@ -18,4 +18,5 @@ status: "Completed"
 
 ## Notes & Thoughts
 This lesson taught how to use the IN operator, so using multiple OR operators is not always necessary.
+
 I'm not sure if the NOT operator was introduced in any lesson yet, but I did use it and it worked. NOT BETWEEN is a better solution than doing both < and > to find values outside a range.

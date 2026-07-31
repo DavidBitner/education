@@ -14,5 +14,7 @@ status: "Completed"
 
 ## Notes & Thoughts
 This is the first exercise on the tutorial, so it's very basic.
+
 The User just have to output everything in the table.
+
 You are basicaly taught to use * with the SELECT command.
